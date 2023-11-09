@@ -1,0 +1,24 @@
+mindmap
+    root((Przenośna Serwerownia w Kontenerkach))
+        oszczednosc[Oszczędność miejsca]
+            miejscowosc(Dopasowanie do przestrzeni biurowej)
+        zarzadzanie[Zarządzanie]
+            dostepnosc(Łatwy dostęp dla IT)        
+            organizacja(Organizacja)        
+            bezpieczenstwo(Bezpieczeństwo)
+        skalowalnosc[Skalowalność]
+            rozbudowa(Dodawanie nowych modułów)        
+            konfiguracja(Dostosowanie do potrzeb)
+        wyzwania[Wyzwania]
+            chlodzenie(Zarządzanie ciepłem)        
+            zasilanie(Zasilanie)
+            kable(Organizacja okablowania)
+        zastosowania[Zastosowania]
+            start_upy(Elastyczność dla start-upów)        
+            eventy(Tymczasowe biura i eventy)
+            nauka(Edukacja)
+            projekty_it(Dynamiczne projekty IT)
+        mobilnosc[Mobilność]
+            transportowalnosc(Łatwe przemieszczanie)
+            elastycznosc(Elastyczność konfiguracji)
+        
