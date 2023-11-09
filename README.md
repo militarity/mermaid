@@ -7,4 +7,4 @@
 ![studio nagrań](/studio-nagran/studio-nagran-militarity2.png)
 
 + [kontenerki](/kontenerki)
-![kontenerki](/kontenerki/kontenerki-militarity2.png)
+![kontenerki](/kontenerki/kontenerki-militarity.png)
