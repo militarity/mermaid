@@ -1,5 +1,4 @@
-# mermaid
-mermaid graph
+# [mermaid graph](http://mermaid.militarity.com)
 
 + [edge computing](/edge-computing)
 ![edge computing](/edge-computing/edge-computing-militarity.png)
@@ -8,4 +7,4 @@ mermaid graph
 ![studio nagrań](/studio-nagran/studio-nagran-militarity2.png)
 
 + [kontenerki](/kontenerki)
-[kontenerki](/kontenerki/kontenerki-militarity2.png)
+![kontenerki](/kontenerki/kontenerki-militarity2.png)
