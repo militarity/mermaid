@@ -1,0 +1,23 @@
+mindmap
+  root((Mobilne Studio Nagrań))
+    Mobilność
+      Transportowalność -- "Łatwe do przewiezienia"
+      Łatwość_instalacji -- "Szybkie ustawianie i konfiguracja"
+      Adaptowalność -- "Funkcjonalność w różnych lokalizacjach"
+    Wyposażenie
+      Wysoka_jakość_dźwięku -- "Profesjonalne mikrofony i interfejsy"
+      Oprogramowanie -- "Do nagrywania i edycji"
+      Sprzęt -- "Wytrzymałość i niezawodność"
+    Zastosowania
+      Muzyka_na_żywo -- "Koncerty i festiwale"
+      Podcasting_i_Audiobooki -- "Produkcja treści audio"
+      Nagrania_w_plenerze -- "Reportaże i dokumenty"
+      Film -- "Dźwięk na planach filmowych"
+    Właściwości
+      Samowystarczalność -- "Niezależne źródła zasilania"
+      Izolacja_akustyczna -- "Kontrola nad hałasem otoczenia"
+      Minimalizacja_hałasu -- "Konstrukcje zmniejszające zakłócenia"
+    Dodatkowe_funkcje
+      Streaming -- "Transmisje na żywo"
+      Kontrola_i_wizualizacja -- "Miksery i kontrolery"
+      Redundancja -- "Backup danych i zapisów"
