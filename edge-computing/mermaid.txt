@@ -1,0 +1,36 @@
+mindmap
+  root((Edge Computing))
+    subgraph Edge Computing Applications
+      IoT(Internet rzeczy)
+        ID[Analiza danych IoT]
+        PM[Predykcja utrzymania maszyn]
+        EHE[Zwiększona efektywność energetyczna]
+      AV(Autonomiczne pojazdy)
+        RTA[Analiza danych w czasie rzeczywistym]
+        PD[Przetwarzanie danych sensorów]
+        VCZ[Systemy bezpieczeństwa i V2X]
+      Industry(Przemysł 4.0)
+        PP[Przetwarzanie danych produkcyjnych]
+        PMM[Predykcyjne utrzymanie maszyn]
+        QC[Kontrola jakości]
+      Streaming[Dostarczanie treści multimedialnych]
+        LL[Lepsze przesyłanie na żywo]
+        QRJ[Szybka reakcja na interakcje użytkownika]
+        CD[Niskie opóźnienia przy dostarczaniu treści]
+      FS(Usługi finansowe)
+        PT[Przetwarzanie transakcji]
+        FAS[Szybkie analizy finansowe]
+        FR[Odporność na awarie]
+      DM(Zarządzanie kryzysowe)
+        DD[Szybki dostęp do danych]
+        DA[Analizy w sytuacjach kryzysowych]
+        CCR[Szybka koordynacja działań ratunkowych]
+      HC(Medycyna i opieka zdrowotna)
+        RTD[Przetwarzanie danych medycznych w czasie rzeczywistym]
+        TD[Telemedycyna]
+        PHM[Przenośny sprzęt do monitorowania zdrowia]
+      SC(Smart Cities - Inteligentne miasta)
+        CS[Zarządzanie ruchem w inteligentnych miastach]
+        SW[Gospodarka odpadami]
+        ER[Zarządzanie zasobami energetycznymi]
+    end
