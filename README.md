@@ -1,5 +1,7 @@
 # [mermaid graph](http://mermaid.militarity.com)
 
++ [MILITARITY – Modular Edge Computing Hardware](https://militarity.com/)
+
 + [edge computing](/edge-computing)
 ![edge computing](/edge-computing/edge-computing-militarity.png)
 
